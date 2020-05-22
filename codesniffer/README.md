@@ -27,6 +27,8 @@ composer require-dev "squizlabs/php_codesniffer=*"
 > 검사 파일의 줄번호와 함께 발견되는 규칙위반 메시지를 출력한다.
 >
 > 해당 메시지에 대한 정보는 [여기](https://ujuc.github.io/2019/02/05/psr-2:_coding_style_guide/)를 참조
+>
+> [Advanced-Usage](https://github.com/squizlabs/PHP_CodeSniffer/wiki/Advanced-Usage)
 
 ````bash
 # 단일 파일 검사
